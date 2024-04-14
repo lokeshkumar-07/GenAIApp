@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lokeshkumar-07/GenAi-FrontEnd.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/lokeshkumar-07/gemini-1.git
